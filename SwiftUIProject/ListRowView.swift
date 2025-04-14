@@ -1,3 +1,11 @@
+//
+//  ListRowView.swift
+//  SwiftUIProject
+//
+//  Created by Mohammad on 4/12/25.
+//
+import SwiftUI
+
 struct ListRowView: View {
     
     let title: String
