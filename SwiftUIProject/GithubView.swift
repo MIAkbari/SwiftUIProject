@@ -47,7 +47,7 @@ struct ContributionsView: View {
                 }
                 .padding(.horizontal, 5)
                 .frame(height: 120)
-               // .drawingGroup() // if use this cant see this animation
+               // .drawingGroup() // if use this cant see the animation
             }
             
             Spacer()
